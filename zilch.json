@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "PingPongGod",
+  "avatar": "cciKenGucOIk-RAaa",
+  "preferredColor": "turquoise",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
